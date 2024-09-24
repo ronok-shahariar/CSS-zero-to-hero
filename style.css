@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+
+#headingOne {
+    color: grey;
+}
+
+p {
+    color: violet;
+}
+
+button  {
+    color: white;
+    background-color: green;
+}
+
+body {
+    background-color: black;
+}
